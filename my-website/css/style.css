@@ -1,0 +1,51 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap');
+</style>
+Specify in CSS
+
+p {
+  text-align: center;
+  font-size: 22px;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+  background: url("http://www.raymondenone.org/wp-content/uploads/2017/11/The-Glory-of-God-Light-by-Raymond-Enone-1038x576.jpeg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: julius sans one, sans-serif;
+  font-weight: bolder;
+}
+h1 {
+
+  text-align: center;
+  text-transform: uppercase;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+
+
+}
+
+
+button {
+  background: gold;
+  color: white;
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.lastSupper {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 1200px;
+  padding: 50px 0px 50px 0px;
+
+}
