@@ -1,0 +1,52 @@
+body {
+  color: white;
+  border: 7px solid black;
+}
+a {
+  color:white;
+}
+
+header {
+  text-align: center;
+  background: url("https://ak8.picdn.net/shutterstock/videos/9327848/thumb/1.jpg")
+  }
+
+h1 {
+  font-size: 70px;
+}
+
+img {
+  height: 135px;
+  width: 240px;
+  margin: 40px 0px 0px 0px;
+  border: 7px solid black;
+  border-radius: 20px;
+}
+
+ul {
+  padding: 10px;
+  background: black;
+  margin-bottom: 0px;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+article {
+  color: black;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+@media (max-width: 500px){
+  h1{
+    font-size: 36px;
+  }
+  li {
+    display: block;
+    padding:5px;
+  }
+
+}
